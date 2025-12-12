@@ -1,0 +1,7 @@
+{
+  "name": "Zmanim Countdown",
+  "description": "Real-time Zmanim countdown and daily list using geolocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
